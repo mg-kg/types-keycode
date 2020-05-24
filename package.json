@@ -1,0 +1,7 @@
+{
+	"name": "@types/keycode",
+	"version": "1.0.0",
+	"author": "KaungHtetAung",
+	"description": "TypeScript enums for keycode constants",
+	"repository": "https://github.com/mg-kg/types-keycode.git"
+}

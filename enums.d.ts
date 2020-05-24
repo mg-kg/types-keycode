@@ -1,4 +1,4 @@
-declare enum KeyCode {
+declare const enum KeyCode {
   Backspace = 8,
   Tab = 9,
   Enter = 13,

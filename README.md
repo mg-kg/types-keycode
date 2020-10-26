@@ -3,7 +3,7 @@
 ## Installation
  Install types-keycode
 ```
-npm install --save-dev github:mg-kg/types-keycode#master
+npm install --save-dev github:mgkha/types-keycode#master
 ```
 
 Add **keycode** to compilerOptions of **tsconfig.json** file
